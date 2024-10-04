@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3027" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3099" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -368,7 +368,7 @@
         <mxCell id="RkjTU-7QJC5ID9Nw8IgD-145" value="Break ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="RkjTU-7QJC5ID9Nw8IgD-143">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RkjTU-7QJC5ID9Nw8IgD-146" value="Video IDs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="RkjTU-7QJC5ID9Nw8IgD-143">
+        <mxCell id="RkjTU-7QJC5ID9Nw8IgD-146" value="Video IDs (Breakdown)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="RkjTU-7QJC5ID9Nw8IgD-143">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RkjTU-7QJC5ID9Nw8IgD-167" value="Duration" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="RkjTU-7QJC5ID9Nw8IgD-143">
@@ -555,7 +555,7 @@
         <mxCell id="RkjTU-7QJC5ID9Nw8IgD-210" value="Please contact your admin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RkjTU-7QJC5ID9Nw8IgD-209">
           <mxGeometry x="10" y="80" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RkjTU-7QJC5ID9Nw8IgD-212" value="UX Views" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RkjTU-7QJC5ID9Nw8IgD-212" value="App" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-787" y="2338" width="266" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RkjTU-7QJC5ID9Nw8IgD-213" value="Login view" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -1319,6 +1319,15 @@
               <mxPoint x="-1150" y="2970" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RkjTU-7QJC5ID9Nw8IgD-481" value="UX Views" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1600" y="2280" width="266" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RkjTU-7QJC5ID9Nw8IgD-482" value="Landing page" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1600" y="2338" width="266" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RkjTU-7QJC5ID9Nw8IgD-484" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Statistics&lt;/h1&gt;&lt;p&gt;- Engagement&lt;/p&gt;&lt;p&gt;- Registered users&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Aren&#39;t all the company users registered at the company account creation ?&lt;/p&gt;&lt;p&gt;- Realised breaks&lt;/p&gt;&lt;p&gt;- Tiredness&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;How to compute this data ?&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Stress level&lt;/p&gt;&lt;p&gt;- Users ranking&lt;/p&gt;&lt;p&gt;- Break types&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="920" width="510" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
