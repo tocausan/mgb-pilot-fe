@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="rZPdfZy3iIrynxqRV0RK">
-    <mxGraphModel dx="3037" dy="-196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2968" dy="-245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -611,9 +611,6 @@
         <mxCell id="UYZVAkdVkmXy9jeqrblP-150" value="Profile view" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-287" y="3270" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYZVAkdVkmXy9jeqrblP-151" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Profile&lt;/h1&gt;&lt;p&gt;Details:&lt;br&gt;&lt;/p&gt;&lt;p&gt;- First name&lt;/p&gt;&lt;p&gt;- Last name&lt;/p&gt;&lt;p&gt;- Email&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Data (need to determine the required data set for exercise accuracy):&lt;/p&gt;&lt;p&gt;- Gender&lt;/p&gt;&lt;p&gt;- Age&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Height&lt;/p&gt;&lt;p&gt;- Weight&lt;/p&gt;&lt;p&gt;- Menstruation cycle (if female)&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Sport level (Physical activity frequency):&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Beginner, Intermediate, Advanced&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;- Goals:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Stress reduction, Energy increase, Muscular reinforcement, &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Position (Posture) &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;improvement &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Preferences (default break data):&lt;/p&gt;&lt;p&gt;- Stress level&lt;/p&gt;&lt;p&gt;- Feeling&lt;/p&gt;&lt;p&gt;- Tiredness&lt;/p&gt;&lt;p&gt;- Availability&lt;/p&gt;&lt;p&gt;- Exercice type&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;spacingRight=5;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="4330" y="2000" width="470.33" height="660" as="geometry" />
-        </mxCell>
         <mxCell id="UYZVAkdVkmXy9jeqrblP-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UYZVAkdVkmXy9jeqrblP-19" target="UYZVAkdVkmXy9jeqrblP-145">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1141,7 +1138,7 @@
           <mxGeometry x="10" y="12" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UYZVAkdVkmXy9jeqrblP-370" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="4760" y="2848" width="140" height="260" as="geometry" />
+          <mxGeometry x="4760" y="2520" width="140" height="260" as="geometry" />
         </mxCell>
         <mxCell id="UYZVAkdVkmXy9jeqrblP-371" value="Nav" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="UYZVAkdVkmXy9jeqrblP-370">
           <mxGeometry x="10" y="230" width="120" height="20" as="geometry" />
@@ -1204,7 +1201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UYZVAkdVkmXy9jeqrblP-377" value="&lt;div&gt;OK ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4960" y="2980" width="80" height="80" as="geometry" />
+          <mxGeometry x="4960" y="2652" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UYZVAkdVkmXy9jeqrblP-378" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UYZVAkdVkmXy9jeqrblP-366" target="UYZVAkdVkmXy9jeqrblP-376">
           <mxGeometry relative="1" as="geometry" />
@@ -1213,7 +1210,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UYZVAkdVkmXy9jeqrblP-380" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="5120" y="2848" width="140" height="260" as="geometry" />
+          <mxGeometry x="5120" y="2520" width="140" height="260" as="geometry" />
         </mxCell>
         <mxCell id="UYZVAkdVkmXy9jeqrblP-381" value="An error happened" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UYZVAkdVkmXy9jeqrblP-380">
           <mxGeometry x="10" y="102.5" width="120" height="30" as="geometry" />
@@ -1593,8 +1590,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYZVAkdVkmXy9jeqrblP-538" value="See break form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4860" y="3160" width="120" height="60" as="geometry" />
+        <mxCell id="UYZVAkdVkmXy9jeqrblP-538" value="Set default break form values" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4860" y="2832" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UYZVAkdVkmXy9jeqrblP-539" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="UYZVAkdVkmXy9jeqrblP-374" target="UYZVAkdVkmXy9jeqrblP-538">
           <mxGeometry relative="1" as="geometry" />
@@ -1620,10 +1617,10 @@
         <mxCell id="UYZVAkdVkmXy9jeqrblP-550" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UYZVAkdVkmXy9jeqrblP-382" target="UYZVAkdVkmXy9jeqrblP-370">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5280" y="2996" />
-              <mxPoint x="5280" y="2830" />
-              <mxPoint x="4740" y="2830" />
-              <mxPoint x="4740" y="2978" />
+              <mxPoint x="5280" y="2668" />
+              <mxPoint x="5280" y="2502" />
+              <mxPoint x="4740" y="2502" />
+              <mxPoint x="4740" y="2650" />
             </Array>
           </mxGeometry>
         </mxCell>
