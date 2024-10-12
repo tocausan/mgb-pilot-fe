@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="rZPdfZy3iIrynxqRV0RK">
-    <mxGraphModel dx="3200" dy="-82" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4043" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1049,6 +1049,9 @@
         <mxCell id="UYZVAkdVkmXy9jeqrblP-357" value="Profile completion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="UYZVAkdVkmXy9jeqrblP-324">
           <mxGeometry x="10" y="120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UYZVAkdVkmXy9jeqrblP-732" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="UYZVAkdVkmXy9jeqrblP-324">
+          <mxGeometry x="10" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="UYZVAkdVkmXy9jeqrblP-331" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="3720" y="1920" width="220" height="70" as="geometry" />
         </mxCell>
@@ -2038,6 +2041,12 @@
               <mxPoint x="7670" y="2060" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UYZVAkdVkmXy9jeqrblP-733" value="To admin view" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3960" y="1800.03" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UYZVAkdVkmXy9jeqrblP-734" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UYZVAkdVkmXy9jeqrblP-732" target="UYZVAkdVkmXy9jeqrblP-733">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
